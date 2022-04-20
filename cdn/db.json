@@ -1,0 +1,14 @@
+[
+    {
+        product_title: "Sunflower",
+        product_image: "https://dummyimage.com/600x400/000/fff",
+        product_gltf : "sunflower.gltf",
+        z_loc        : 2
+    },
+    {
+        product_title: "Penguin Plushie Toy",
+        product_image: "https://dummyimage.com/600x400/000/fff",
+        product_gltf : "penguin_with_tex.glb",
+        z_loc        : 1
+    }
+]
